@@ -1,10 +1,3 @@
-testando git fsdfdsf
-coloquei no bloco de notas
-coloquei bug
-jdasdsa
-dasdsad
-
-
-coloquei no bloco de notas
-
-coloquei no git
+<p>
+Mais um teste de conflito e merge
+</p>
