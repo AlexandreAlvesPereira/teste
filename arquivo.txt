@@ -1,3 +1,5 @@
-<p>
-Mais um teste de conflito e merge
-</p>
+<html>
+	<p>
+		Mais um teste de conflito e merge
+	</p>
+</html>
