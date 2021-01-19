@@ -4,5 +4,7 @@ coloquei bug
 jdasdsa
 dasdsad
 
+
 coloquei no bloco de notas
 
+coloquei no git
